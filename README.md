@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓I am pursuing Master of Computer Applications.<br>💻I am currently learning MERN - Technologies.<br>🌐I love making websites.<br>
+🧑‍🎓I am pursuing : Master of Computer Applications.<br>💻I am currently learning : MERN - Technologies.<br>🌐 Fun fact : I love making websites.<br>
 
 
 ## 🌐 Socials:
