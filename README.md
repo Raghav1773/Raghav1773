@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 MCA Student passionate about full-stack development<br>🎯 Current Goal: Building strong real-world projects and mastering backend development<br><br>📚 I love learning by building — from UI design to database schemas<br><br>💪 Focused on problem-solving, clean code, and performance<br><br>🌱 Currently exploring DevOps basics and advanced Git workflows<br><br>🧠 Learning style: Practice-heavy and documentation-driven<br><br>⚡ Fun Fact: I see every bug as a brain gym session<br><br><br>
+🔭 MCA Student passionate about full-stack development<br><br>🎯 Current Goal: Building strong real-world projects and mastering backend development<br><br>📚 I love learning by building — from UI design to database schemas<br><br>💪 Focused on problem-solving, clean code, and performance<br><br>🌱 Currently exploring DevOps basics and advanced Git workflows<br><br>🧠 Learning style: Practice-heavy and documentation-driven<br><br>⚡ Fun Fact: I see every bug as a brain gym session<br><br><br>
 
 
 ## 🌐 Socials:
