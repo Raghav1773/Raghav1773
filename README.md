@@ -3,7 +3,7 @@
 # Raghav Sharma
 
 **Aspiring Junior Data Analyst**  
-Delhi, India • raghavsharmaa1773@gmail.com • [LinkedIn](https://www.linkedin.com/in/raghav-sharma-571164325) • [GitHub](https://github.com/Raghav1773)
+Delhi, India • raghavsharmaa1773@gmail.com • [LinkedIn](https://www.linkedin.com/in/raghav-sharma-571164325)
 
 <br>
 
@@ -14,6 +14,6 @@ Detail-oriented MCA student (2026 batch) with strong skills in Python (Pandas, N
 
 ### Skills & Tools
 
-<img src="https://skillicons.dev/icons?i=python,mysql,powerbi,tableau,pandas,numpy,matplotlib,seaborn,excel,jupyter,vscode,git,github&perline=8&theme=light" />
+<img src="https://skillicons.dev/icons?i=powerbi,tableau,excel,python,pandas,numpy,mysql,matplotlib,seaborn,jupyter,vscode,git&perline=6" />
 
 </div>
