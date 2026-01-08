@@ -12,8 +12,8 @@ Detail-oriented MCA student (2026 batch) with strong skills in Python (Pandas, N
 
 <br><br>
 
-### Skills & Tools
+### Key Tools & Skills
 
-<img src="https://skillicons.dev/icons?i=powerbi,tableau,excel,python,pandas,numpy,mysql,matplotlib,seaborn,jupyter,vscode,git&perline=6" />
+<img src="https://skillicons.dev/icons?i=powerbi,tableau,excel,mysql,python,pandas,numpy,matplotlib&perline=4" />
 
 </div>
