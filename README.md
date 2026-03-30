@@ -14,7 +14,8 @@ I work with real-world datasets to extract meaningful insights and support decis
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-sharma-571164325)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavsharmaa1773@gmail.com) - raghavsharmaa1773@gmail.com
+
+Email - raghavsharmaa1773@gmail.com
 
 ---
 
